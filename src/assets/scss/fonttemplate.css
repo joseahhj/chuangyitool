@@ -1,0 +1,21 @@
+/*font*/
+@font-face{font-family:'Arial Black';src:url('../../../toolpage/font/en/ArialBlack.eot');src:url('../../../toolpage/font/en/ArialBlack.woff') format('woff'), url('../../../toolpage/font/en/ArialBlack.ttf') format('truetype');}
+@font-face{font-family:'Helvetica';src:url('../../../toolpage/font/en/Helvetica.dfont');}
+@font-face{font-family:'Impact';src:url('../../../toolpage/font/en/Impact.eot');src:url('../../../toolpage/font/en/Impact.woff') format('woff'), url('../../../toolpage/font/en/Impact.ttf') format('truetype')}
+@font-face{font-family:'华文黑体';src:url('../../../toolpage/font/zh/STHeitiMedium.ttc');}
+@font-face{font-family:'方正大标宋简体';src:url('../../../toolpage/font/zh/fzdbsjt.eot');src:url('../../../toolpage/font/zh/fzdbsjt.woff') format('woff'), url('../../../toolpage/font/zh/fzdbsjt.ttf') format('truetype');}
+@font-face{font-family:'方正楷体简体';src:url('../../../toolpage/font/zh/fzktjt.eot');src:url('../../../toolpage/font/zh/fzktjt.woff') format('woff'), url('../../../toolpage/font/zh/fzktjt.ttf') format('truetype');}
+@font-face{font-family:'方正兰亭黑简体';src:url('../../../toolpage/font/zh/fzlthjt.eot');src:url('../../../toolpage/font/zh/fzlthjt.woff') format('woff'), url('../../../toolpage/font/zh/fzlthjt.TTF') format('truetype');}
+@font-face{font-family:'方正兰亭中粗黑_GBK';src:url('../../../toolpage/font/zh/fzltzch_GBK_0.eot');src:url('../../../toolpage/font/zh/fzltzch_GBK_0.woff') format('woff'),url('../../../toolpage/font/zh/fzltzch_GBK_0.TTF') format('truetype');}
+@font-face{font-family:'方正正中黑简体';src:url('../../../toolpage/font/zh/fzzzhjt.eot');src:url('../../../toolpage/font/zh/fzzzhjt.woff') format('woff'),url('../../../toolpage/font/zh/fzzzhjt.TTF') format('truetype');}
+@font-face{font-family:'方正黑体简体';src:url('../../../toolpage/font/zh/FZHTJW.eot');src:url('../../../toolpage/font/zh/FZHTJW.woff') format('woff'),url('../../../toolpage/font/zh/FZHTJW.TTF') format('truetype')}
+@font-face{font-family:'方正汉真广标简体';src:url('../../../toolpage/font/zh/FZHZGBJW.eot');src:url('../../../toolpage/font/zh/FZHZGBJW.woff') format('woff'), url('../../../toolpage/font/zh/FZHZGBJW.TTF') format('truetype');}
+@font-face{font-family:'方正卡通简体';src:url('../../../toolpage/font/zh/FZKATJW.eot');src:url('../../../toolpage/font/zh/FZKATJW.woff') format('woff'),url('../../../toolpage/font/zh/FZKATJW.TTF') format('truetype');}
+@font-face{font-family:'方正兰亭特黑_GBK';src:url('../../../toolpage/font/zh/FZLTTHK.eot');src:url('../../../toolpage/font/zh/FZLTTHK.woff') format('woff'),url('../../../toolpage/font/zh/FZLTTHK.TTF') format('truetype');}
+@font-face{font-family:'方正小标宋简体';src:url('../../../toolpage/font/zh/FZXBSJW.eot');src:url('../../../toolpage/font/zh/FZXBSJW.woff') format('woff'),url('../../../toolpage/font/zh/FZXBSJW.TTF') format('truetype');}
+@font-face{font-family:'方正正黑简体';src:url('../../../toolpage/font/zh/FZZHJW.eot');src:url('../../../toolpage/font/zh/FZZHJW.woff') format('woff'),url('../../../toolpage/font/zh/FZZHJW.TTF') format('truetype');}
+@font-face{font-family:'方正综艺简体';src:url('../../../toolpage/font/zh/FZZYJW.eot');src:url('../../../toolpage/font/zh/FZZYJW.woff') format('woff'),url('../../../toolpage/font/zh/FZZYJW.TTF') format('truetype');}
+@font-face{font-family:'方正黑体简体';src:url('../../../toolpage/font/zh/FZHTJW.eot');src:url('../../../toolpage/font/zh/FZHTJW.woff') format('woff'), url('../../../toolpage/font/zh/FZHTJW.TTF') format('truetype');}
+@font-face{font-family:'方正兰亭纤黑_GBK';src:url('../../../toolpage/font/zh/FZLTQH_GBK.eot');src:url('../../../toolpage/font/zh/FZLTQH_GBK.woff') format('woff'),url('../../../toolpage/font/zh/FZLTQH_GBK.TTF') format('truetype');}
+@font-face{font-family:'微软雅黑加粗';src:url('../../../toolpage/font/zh/msyhbd.eot');src:url('../../../toolpage/font/zh/msyhbd.woff') format('woff'),url('../../../toolpage/font/zh/msyhbd.TTF') format('truetype');}
+@font-face{font-family:'方正大黑简体';src:url('../../../toolpage/font/zh/FZDHTJW.eot');src:url('../../../toolpage/font/zh/FZDHTJW.TTF') format('truetype');}

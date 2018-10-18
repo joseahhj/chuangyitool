@@ -1,0 +1,12 @@
+/node_modules
+/mock
+/.sass-cache
+.DS_Store
+/picmaker
+/dist
+/.idea
+/toolpage
+/src/assets/common2.0
+/src/assets/fonts
+/src/assets/img
+/src/components/Upload

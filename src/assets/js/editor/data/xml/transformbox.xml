@@ -1,0 +1,17 @@
+<g class="transform-box">
+	<line class="antenna"/>
+	<path class="translate" d=""/>
+	<g class="groupTag">
+	<rect width="36" height="16"/>
+	<text x="16" y="16" font-size="16" text-anchor="middle">全局</text>
+	</g>
+	<circle class="rotate" cx="0" cy="0" r="4"/>    
+	<rect class="scale-tm" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+	<rect class="scale-tr" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+	<rect class="scale-mr" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+	<rect class="scale-br" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+	<rect class="scale-bm" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+	<rect class="scale-bl" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+	<rect class="scale-ml" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+	<rect class="scale-tl" x="-3" y="-3" width="6" height="6" transform="translate(-3,-3)"/>
+</g>        

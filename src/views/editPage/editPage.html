@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>编辑-图片创意工具-创意库</title>
+  
+  <%=htmlWebpackPlugin.options.publicHeadJs%>
+  <%=htmlWebpackPlugin.options.editCss%>
+  <script>
+      printHeader((window.location.protocol + '//' + window.location.host) || "//jzt.jd.com")
+  </script>
+
+ 
+</head>
+
+<body>
+  
+    <div id="main"></div>
+
+    <script type="text/javascript" src="<%=htmlWebpackPlugin.options.vendorJs%>"></script>
+    <script>
+      curEnv = <%=htmlWebpackPlugin.options.tagEnv%>
+    </script>
+    <%=htmlWebpackPlugin.options.specialJs%>
+    <%=htmlWebpackPlugin.options.editJs%>
+	<%=htmlWebpackPlugin.options.publicBotJs%>
+  
+</body>
+
+</html>
